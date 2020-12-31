@@ -1,6 +1,6 @@
 .smheader {
     height:500px;
-    background-image:url(img/header.jpg);
+    background-image:url("/img/header.jpg");
     background-size:cover;
     background-position:center;
     color:white;
