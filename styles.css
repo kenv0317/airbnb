@@ -206,7 +206,7 @@ footer .container .item {
 
     
     .smheader {
-	background-image:url(../img/nitsjh.jpg);
+	background-image:url('img/nitsjh.jpg');
 	margin:0;
 	padding:0;
 	height:700px;
